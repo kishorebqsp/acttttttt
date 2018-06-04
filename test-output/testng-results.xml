@@ -2,34 +2,34 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="35759" started-at="2018-06-01T11:07:55Z" finished-at="2018-06-01T11:08:31Z">
+  <suite name="Default suite" duration-ms="35196" started-at="2018-06-03T13:01:17Z" finished-at="2018-06-03T13:01:52Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="35759" started-at="2018-06-01T11:07:55Z" finished-at="2018-06-01T11:08:31Z">
+    <test name="Default test" duration-ms="35196" started-at="2018-06-03T13:01:17Z" finished-at="2018-06-03T13:01:52Z">
       <class name="scripts123.Validloginlogout">
-        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts123.Validloginlogout@612fc6eb]" name="openapp" is-config="true" duration-ms="9086" started-at="2018-06-01T11:07:55Z" finished-at="2018-06-01T11:08:04Z">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts123.Validloginlogout@612fc6eb]" name="openapp" is-config="true" duration-ms="7961" started-at="2018-06-03T13:01:17Z" finished-at="2018-06-03T13:01:25Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapp -->
-        <test-method status="PASS" signature="test1()[pri:0, instance:scripts123.Validloginlogout@612fc6eb]" name="test1" duration-ms="3167" started-at="2018-06-01T11:08:04Z" finished-at="2018-06-01T11:08:08Z">
+        <test-method status="PASS" signature="test1()[pri:0, instance:scripts123.Validloginlogout@612fc6eb]" name="test1" duration-ms="4376" started-at="2018-06-03T13:01:25Z" finished-at="2018-06-03T13:01:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test1 -->
-        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts123.Validloginlogout@612fc6eb]" name="closeapp" is-config="true" duration-ms="426" started-at="2018-06-01T11:08:08Z" finished-at="2018-06-01T11:08:08Z">
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts123.Validloginlogout@612fc6eb]" name="closeapp" is-config="true" duration-ms="350" started-at="2018-06-03T13:01:30Z" finished-at="2018-06-03T13:01:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapp -->
       </class> <!-- scripts123.Validloginlogout -->
       <class name="scripts123.Verfiy">
-        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts123.Verfiy@1060b431]" name="openapp" is-config="true" duration-ms="6340" started-at="2018-06-01T11:08:08Z" finished-at="2018-06-01T11:08:14Z">
+        <test-method status="PASS" signature="openapp()[pri:0, instance:scripts123.Verfiy@1060b431]" name="openapp" is-config="true" duration-ms="5386" started-at="2018-06-03T13:01:30Z" finished-at="2018-06-03T13:01:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openapp -->
-        <test-method status="PASS" signature="test3()[pri:0, instance:scripts123.Verfiy@1060b431]" name="test3" duration-ms="16126" started-at="2018-06-01T11:08:14Z" finished-at="2018-06-01T11:08:30Z">
+        <test-method status="PASS" signature="test3()[pri:0, instance:scripts123.Verfiy@1060b431]" name="test3" duration-ms="16665" started-at="2018-06-03T13:01:35Z" finished-at="2018-06-03T13:01:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test3 -->
-        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts123.Verfiy@1060b431]" name="closeapp" is-config="true" duration-ms="563" started-at="2018-06-01T11:08:30Z" finished-at="2018-06-01T11:08:31Z">
+        <test-method status="PASS" signature="closeapp()[pri:0, instance:scripts123.Verfiy@1060b431]" name="closeapp" is-config="true" duration-ms="407" started-at="2018-06-03T13:01:52Z" finished-at="2018-06-03T13:01:52Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeapp -->
